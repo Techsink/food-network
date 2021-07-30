@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.introduction{
+    display: flex;
+    float: left;
+}
+.half-width{
+    width: 40%;
+    height: auto;
+    margin-left: 5%;
+    /* border: 1px solid red; */
+}
+.half-width img{
+    height: 70%;
+}
+.order{
+    margin-top: 80px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(orange, tomato); 
+    color: white;
+    border-radius: 5px;
+}
+.banner-girl img{
+    width: 287px;
+    height: 457px;
+    margin-left: 200px;
+    /* border: 1px solid red; */
+}
+.contact-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+.recipies{
+    text-align: center;
+}
+.recipies p{
+    margin: auto;
+    width: 45%;
+}
+.food{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.food img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.foods{
+    padding: 10px;
+    /* border: 1px solid red; */
+    margin-left: 30px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.followers{
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.follower{
+    padding: 20px 77px;
+    border: 1px solid red;
+}
+.last-part{
+    border: 2px solid red;
+}
+footer h1, p{
+    text-align: center;
+
+}
+footer{
+    margin-top: 900px;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+.gray-color{
+    color: gray;
+}
